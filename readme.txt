@@ -1,4 +1,4 @@
-=== PHP Code Widget ===
+=== EURO 2012 Countdown ===
 Contributors: Steve
 Tags: EURO 2012, football, championship, countdown, informer, widget, plugin
 Requires at least: 2.8
