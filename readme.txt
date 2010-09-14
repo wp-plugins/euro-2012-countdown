@@ -15,7 +15,7 @@ You can place this widget on your site and watch the countdown that left till th
 
 == Installation ==
 
-Typical and eazy installation like any other widget.
+Typical and easy installation like any other widget.
 
 == Screenshots ==
 
