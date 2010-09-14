@@ -3,7 +3,7 @@ Contributors: Steve
 Tags: EURO 2012, football, championship, countdown, informer, widget, plugin
 Requires at least: 2.8
 Tested up to: 3.0.0
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 The widget shows the countdown that left till the start of the Euro 2012 football championship.
 
