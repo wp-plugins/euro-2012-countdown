@@ -13,6 +13,8 @@ For all football fans is dedicated.
 And also for those who is looking forward to the start of the Euro 2012 football championship.
 You can place this widget on your site and watch the countdown that left till the start.
 
+Site of widget: [euro2012en.500v.net](http://euro2012en.500v.net "EURO 2012 Countdown").
+
 == Installation ==
 
 Typical and easy installation like any other widget.
